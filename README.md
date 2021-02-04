@@ -1,4 +1,12 @@
 # web
-this is for html/css files for intro 2
-
-here would be other stuff
+<DOCTYPE! html>
+<html lang="en">
+  <head>
+    <title>Welcome to my page!</title>
+  </head>
+  
+  <body>
+  Hi there!
+  </body>
+  </html>
+    
