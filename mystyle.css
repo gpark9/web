@@ -6,8 +6,10 @@
 
 body {
 	border: thick double navy;
+	border-radius: 5px;
 	background-color: orange;
 	color: navy;
+	padding-bottom:50px;
 
 }
 
@@ -76,17 +78,35 @@ li.menu {
 }
 
 h1 {
+	font-size: 50px;
 	font-family: fantasy;
 	font-style: oblique 50deg;
 	font-size: xx-large;
 }
 
 h2 {
+	font-size: 40px;
 	font-family: cursive;
 	color: white;
 }
 
 h3 {
+	font-size: 30px;
 	font-family:Snell Roundhand, cursive;
 	color: #E04601;
+}
+
+p {
+	font-size: 20px;
+	padding-right: 150px;
+	padding-left:150px;
+}
+
+p.left {
+	text-align:left;
+}
+
+p.description {
+	font-size: 15px;
+	font-style:italic;
 }
