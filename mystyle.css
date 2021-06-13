@@ -5,10 +5,10 @@
 
 
 body {
-	border: thick double navy;
+	
 	border-radius: 5px;
-	background-color: orange;
-	color: navy;
+	background-color: brown;
+	color: white;
 	padding-bottom:50px;
 
 }
@@ -32,7 +32,9 @@ ul {
 li {
 	float: left;
 }
-
+a {
+	color: white;
+}
 li a, .menubutton {
 	display:inline-block;
 	color:white;
@@ -42,7 +44,7 @@ li a, .menubutton {
 }
 
 li a:hover, .menu:hover .menubutton{
-	background-color:mediumblue;;
+	background-color:brown;;
 }
 
 li.menu {
@@ -74,7 +76,7 @@ li.menu {
 }
 
 .current {
-	background-color:firebrick;
+	background-color:brown;
 }
 
 h1 {
